@@ -55,9 +55,9 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">This romantic tragedy follows the relationship of a Roman triumvir and the Queen of Egypt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;Mark Antony was supposed to be in Egypt to conduct government affairs on behalf of the Roman Empire. Instead, he fell in love with the beautiful Queen Cleopatra, became her lover, and abandoned his duties to his wife and country. A messenger arrives bearing news that Antony’s wife and brother are dead after attempting to kill Caesar, and one of Ceasar’s generals, Pompey, is gathering an army against the Roman leaders. Mark Antony has no choice but to return to Rome. When Antony returns to the capital, he argues with Ceasar over his loyalty to Rome and the other triumvirs. The only way that Antony can prove his fidelity to Caesar is to marry his sister, Octavia. The news of this marriage makes its way back to Egypt and its queen.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
